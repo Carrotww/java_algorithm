@@ -11,7 +11,7 @@ class Edge {
     }
 }
 
-public class App {
+public class main {
     public static int[] parent;
 
     public static void main(String[] args) throws IOException {
